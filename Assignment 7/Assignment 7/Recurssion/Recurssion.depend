@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557141022 source:c:\users\toshiba\desktop\assignment 7\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	"grid.h"
+
+1557145924 c:\users\toshiba\desktop\assignment 7\grid.h
+	<string>
+	<vector>
+
+1557146198 source:c:\users\toshiba\desktop\assignment 7\grid.cpp
+	<iostream>
+	<fstream>
+	"grid.h"
+
+1557141022 source:c:\users\toshiba\desktop\2nd sem\data structure\lab\assignment 7\assignment 7\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	"grid.h"
+
+1557148742 c:\users\toshiba\desktop\2nd sem\data structure\lab\assignment 7\assignment 7\grid.h
+	<string>
+	<vector>
+

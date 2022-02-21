@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1555916459 source:c:\users\toshiba\desktop\new folder (2)\enhanced\car.cpp
+	"car.h"
+
+1555916414 c:\users\toshiba\desktop\new folder (2)\enhanced\car.h
+	<iostream>
+	<string>
+
+1555916466 source:c:\users\toshiba\desktop\new folder (2)\enhanced\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<stack>
+	<stdexcept>
+	<vector>
+	<algorithm>
+	"Car.h"
+
